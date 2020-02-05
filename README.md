@@ -1,1 +1,1 @@
-# Summer-2019-Asteroid-Game
+# Summer-2019-Asteroid-Game-Simulator
